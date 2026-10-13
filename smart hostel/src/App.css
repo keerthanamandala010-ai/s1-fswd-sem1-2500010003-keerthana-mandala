@@ -1,0 +1,36 @@
+.container {
+  width: 400px;
+  margin: 80px auto;
+  padding: 25px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 26px;
+  color: darkblue;
+}
+
+label {
+  display: block;
+  text-align: left;
+  margin-top: 15px;
+}
+
+input {
+  width: 95%;
+  padding: 10px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
